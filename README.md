@@ -14,6 +14,7 @@
 - GIMP 图像编辑
 - ImageJ 图像处理
 - ImageMagick
+- [开源图像处理工具](https://sourceforge.net/directory/image-processing/)https://sourceforge.net/directory/image-processing/
 - FastStone Capture 截图
 - ScreenToGif 录屏
 - VeryCapture 录屏
