@@ -32,7 +32,10 @@
 - NCNN
 - Yolov8
 - shape_based_match
-- PCL
+- PCL [https://github.com/PointCloudLibrary/pcl/tree/master](https://github.com/PointCloudLibrary/pcl/tree/master)
+  - kdtree
+  - linemod [轮廓匹配recognition/src/linemod.cpp](https://github.com/PointCloudLibrary/pcl/blob/master/recognition/src/linemod.cpp)
+  - icp
 - PaddleOCR
 - Qt
 - ffmpeg
