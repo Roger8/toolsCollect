@@ -1,5 +1,6 @@
 # toolsCollect
 工具收集
+- [ **markdown** 书写指引](https://www.markdownguide.org/basic-syntax/#reference-style-links)
 ### 开发工具
 - vs code
 - git bash
