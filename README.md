@@ -16,6 +16,8 @@
 - ImageJ 图像处理
 - ImageMagick
 - 图像处理开源工具 [https://sourceforge.net/directory/image-processing/](https://sourceforge.net/directory/image-processing/)
+- IMLAB [Scientific Image Processing https://sourceforge.net/projects/imlab/](https://sourceforge.net/projects/imlab/)
+- [BoofCV](https://github.com/lessthanoptimal/BoofCV)
 - FastStone Capture 截图
 - ScreenToGif 录屏
 - VeryCapture 录屏
