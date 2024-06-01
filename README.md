@@ -45,6 +45,7 @@
 - FreeCAD
 - spdlog
 - [manim](https://github.com/3b1b/manim) Animation engine for explanatory math videos视频制作
+- [Computer History Museum Source-code](https://computerhistory.org/playlists/source-code/)
 
 ### 网课资源
 - 斯坦福[Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
