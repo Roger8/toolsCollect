@@ -10,6 +10,7 @@
 - PDFPatcher pdf 编辑
 - everything 文件查找
 - oracle virtual box 虚拟机
+- HFS（Http File Server）局域网文件(服务器)共享
 
 ### 图像
 - GIMP 图像编辑
